@@ -1,7 +1,7 @@
 ### Hello World 👋
 Hi, I’m Alaa Bashiyi, a Fullstack Developer
 - - 🔭 Working on multiple projects using React, React Native.
-- - 💼 I'm currently working as a Fullstack developer at Wix.com.
+- - 💼 I'm currently working as a Fullstack developer at Toluna.
 - - 🌱 Learning Flutter & Dart.
 <br>
 ## Connect with me
